@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Loay\\LaravelOtpService\\' => array($baseDir . '/src'),
+    'LoayGhanem\\OtpService\\' => array($baseDir . '/src'),
 );

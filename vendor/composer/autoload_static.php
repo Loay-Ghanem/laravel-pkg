@@ -9,12 +9,12 @@ class ComposerStaticInitaff044daf139897fe09cbef3cb2448d0
     public static $prefixLengthsPsr4 = array (
         'L' => 
         array (
-            'Loay\\LaravelOtpService\\' => 23,
+            'LoayGhanem\\OtpService\\' => 22,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Loay\\LaravelOtpService\\' => 
+        'LoayGhanem\\OtpService\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),
