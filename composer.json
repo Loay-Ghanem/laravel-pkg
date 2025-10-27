@@ -5,17 +5,7 @@
   "license": "Apache-2.0",
   "autoload": {
       "psr-4": {
-          "LoayGhanem\\OtpService\\": "src/"
-      }
-  },
-  "extra": {
-      "laravel": {
-          "providers": [
-              "LoayGhanem\\OtpService\\OtpServiceProvider"
-          ],
-          "aliases": {
-              "Otp": "LoayGhanem\\OtpService\\Facades\\Otp"
-          }
+          "OtpService\\": "src/"
       }
   },
   "require": {
