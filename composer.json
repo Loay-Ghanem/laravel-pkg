@@ -1,5 +1,5 @@
 {
-  "name": "yourteam/laravel-otp-service",
+  "name": "loay-ghanem/laravel-pkg",
   "description": "A Laravel OTP service for phone/email verification",
   "type": "library",
   "license": "Apache-2.0",
