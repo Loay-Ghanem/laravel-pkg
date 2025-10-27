@@ -1,11 +1,10 @@
 <?php
 
-namespace YourTeam\OtpService;
+namespace OtpService;
 
-use Illuminate\Support\ServiceProvider;
-use YourTeam\OtpService\Services\OtpService;
+use OtpService\Services\OtpService;
 
-class OtpServiceProvider extends ServiceProvider
+class OtpServiceProvider
 {
     public function register(): void
     {
